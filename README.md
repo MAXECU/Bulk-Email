@@ -9,4 +9,4 @@
 ``
 ./fire.sh futurelist
 ``
-## Add emails into futurelist files into seperate lines, this futurelist is just an sample file.
+- Add emails into futurelist files into seperate lines, this futurelist is just an sample file.
